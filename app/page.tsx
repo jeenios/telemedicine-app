@@ -33,12 +33,12 @@ export default function Home() {
             </h1>
 
             <h2 className="mt-2 text-2xl md:text-4xl font-semibold bg-gradient-to-r from-green-300 via-blue-300 to-purple-400 bg-clip-text text-transparent">
-              With Enesers App
+              Experience the Future with Enesers
             </h2>
 
             <p className="mt-6 text-lg md:text-xl text-gray-300 leading-relaxed mx-auto max-w-xl">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt,
-              repudiandae!
+              Connect with healthcare professionals anytime, anywhere. Enjoy
+              seamless telemedicine services with Enesers App.
             </p>
 
             <div className="flex items-center justify-center gap-3 mt-8 mb-8">
